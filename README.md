@@ -1,10 +1,4 @@
-
-**- Nama : Aaqilah Aathirah Sutisna**
-**- NIM  : 312310621**
-**- Kelas : TI.23.A6**
-**- Mata Kuliah : Pemrograman Orientasi Objek**
-
-**Petermuan 11**
+# PERTEMUAN 11
 
 # Soal
 
